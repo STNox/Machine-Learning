@@ -16,6 +16,7 @@ weatherkey.txt
 UCI_HAR_Dataset/
 IMDB/
 model/
+NaverMovie/
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
