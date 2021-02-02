@@ -15,6 +15,8 @@ static/
 weatherkey.txt
 UCI_HAR_Dataset/
 IMDB/
+keys/
+voice/
 model/
 NaverMovie/
 gov_data_api_key.txt
